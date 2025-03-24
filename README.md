@@ -33,8 +33,8 @@ A robust Django-powered web application revolutionizing stationary requisition a
 ---
 
 ## 📸 Screenshots  
-> ![Dashboard Screenshot](https://github.com/tanushreehajare/SSMS/blob/9be296b2f1b49d1701142650965b8c14842dfaa5/Dashboard.png)  
-> ![Report Generation](https://github.com/tanushreehajare/SSMS/blob/24feb5e229bc0ee735b0a8d444e6ce06a03fe677/Report.png)
+> ![Dashboard Screenshot](https://github.com/tanushreehajare/SSMS/blob/de251df9c684ef4a958b03f2c754b6ad65f1705d/Dashboard.png) 
+> ![Report Generation](https://github.com/tanushreehajare/SSMS/blob/de251df9c684ef4a958b03f2c754b6ad65f1705d/Report.png)
 > ![Assignment](https://github.com/tanushreehajare/SSMS/blob/24feb5e229bc0ee735b0a8d444e6ce06a03fe677/Assignment)
 > ![Data](https://github.com/tanushreehajare/SSMS/blob/51d63c8135c2130c99610732dee3255323863e45/Data.png)
 
