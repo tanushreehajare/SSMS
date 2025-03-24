@@ -33,7 +33,7 @@ A robust Django-powered web application revolutionizing stationary requisition a
 ---
 
 ## 📸 Screenshots  
-> ![Dashboard Screenshot](link-to-image)  
+> ![Dashboard Screenshot](Screenshot 2025-03-24 225336.png)  
 > ![Report Generation](link-to-image)
 
 ---
