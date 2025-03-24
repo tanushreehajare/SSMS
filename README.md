@@ -33,7 +33,6 @@ A robust Django-powered web application revolutionizing stationary requisition a
 ---
 
 ## 📸 Screenshots  
-*(Add screenshots here if you have them — dashboard, request page, reports, etc.)*  
 > ![Dashboard Screenshot](link-to-image)  
 > ![Report Generation](link-to-image)
 
@@ -43,10 +42,10 @@ A robust Django-powered web application revolutionizing stationary requisition a
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/somaiya-stationary-management.git
+git clone https://github.com/yourusername/SSMS.git
 
 # Navigate to project directory
-cd somaiya-stationary-management
+cd SSMS
 
 # Install dependencies
 pip install -r requirements.txt
